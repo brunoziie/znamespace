@@ -119,8 +119,6 @@ var znamespace;
                 row[i]();
             } 
         }
-
-        console.log('greet:' + path);
     };
 
     /**
